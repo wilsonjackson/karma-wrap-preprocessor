@@ -1,0 +1,30 @@
+{
+  "name": "karma-wrap-preprocessor",
+  "version": "0.1.0",
+  "description": "Wrap files with a lodash template.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilsonjackson/karma-wrap-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor"
+  ],
+  "author": "Majid Burney <majid@euphoricsoup.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilsonjackson/karma-wrap-preprocessor/issues"
+  },
+  "homepage": "https://github.com/wilsonjackson/karma-wrap-preprocessor",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
